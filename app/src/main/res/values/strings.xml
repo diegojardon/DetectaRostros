@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Face Detector 2</string>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Se necesita acceso a la cámara para la detección de rostros.</string>
+    <string name="no_camera_permission">La aplicación no funcionará debido a que no tiene los permisos para utilizar la cámara.  La aplicación se cerrará inmediatamente.</string>
+    <string name="low_storage_error">Las dependencias de Face Detector 2 no pueden ser descargadas debido a la poca capacidad de almacenamiento en el dispositivo.</string>
+</resources>
